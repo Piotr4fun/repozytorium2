@@ -9,4 +9,23 @@
         "date_agreement_to": "2024-12-31"
       
     }
-}
+     "tenant-2": {
+        "name": "tenant-2",
+        "apartment": "apart-polanka",
+        "room": "room-bigger",
+        "rent_pln": 1500.0,
+        "deposit_pln": 3000.0,
+        "date_agreement_from": "2024-01-01",
+        "date_agreement_to": "2024-12-31"
+        }
+
+    "tenant-3: {
+        "name": "tenant-3",
+        "apartment": "apart-polanka",
+        "room": "room-bigger",
+        "rent_pln": 1500.0,
+        "deposit_pln": 3000.0,
+        "date_agreement_from": "2024-01-01",
+        "date_agreement_to": "2024-12-31" 
+        }
+    }
